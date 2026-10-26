@@ -1,129 +1,89 @@
-<!-- ==================== HERO ==================== -->
+<!--
+  NAVYA JAIN | ENGINEERING PORTFOLIO
+  Profile repository: naavy-jain/naavy-jain
+
+  Design: Midnight / Electric Blue / Violet
+  Built with GitHub-compatible Markdown and HTML.
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D1117,35:161B35,70:243B70,100:58A6FF&text=NAVYA%20JAIN&fontColor=FFFFFF&fontSize=58&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI&descSize=14&descAlignY=62&animation=fadeIn" alt="Navya Jain — Software Engineering, Full-Stack Development and AI" />
-
 <a href="https://github.com/naavy-jain">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Turning+ideas+into+working+software.;Learning.+Building.+Iterating.;Exploring+AI%2C+APIs+%26+software+architecture.;Focused+on+becoming+a+stronger+engineer." alt="Animated engineering tagline" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B16,45:172554,75:312E81,100:2563EB&text=NAVYA%20JAIN&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%E2%80%A2%20%20FULL-STACK%20%20%E2%80%A2%20%20AI&descSize=15&descAlignY=58&animation=fadeIn" alt="Navya Jain — Software Engineering, Full-Stack Development and AI" />
 </a>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=620&height=38&lines=I+build+solutions+to+real+problems.;From+application+logic+to+AI+integrations.;Engineering+mindset.+Product+thinking.;Turning+ideas+into+working+software." alt="Engineering tagline" />
+
+<br/><br/>
+
 <a href="https://github.com/naavy-jain">
-  <img src="https://img.shields.io/badge/PROFILE-GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/navyajain9">
-  <img src="https://img.shields.io/badge/CONNECT-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://itsnaavy.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-6D5DFB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=naavy-jain&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=naavy-jain&style=flat-square&color=6366F1&label=PROFILE+VISITORS" alt="Profile visitor counter" />
 
 </div>
 
 <br/>
 
-<!-- ==================== INTRODUCTION ==================== -->
-
-## `01` &nbsp; About Me
-
-<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naavy-jain&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages" />
-
-I'm a **Solution Engineer building toward Software Development Engineering**, with an interest in full-stack applications, backend systems, and AI-powered tools.
-
-My experience with enterprise applications, integrations, analytics, and technical problem-solving gives me a practical perspective on how software solves real-world problems.
-
-I'm now building deeper engineering skills through programming, DSA, and hands-on projects.
-
-- **Engineering:** Software development and problem-solving
-- **Currently learning:** DSA with Python and software engineering fundamentals
-- **Building:** Web applications and AI-powered developer tools
-- **Exploring:** LLM APIs, local models, and backend development
-- **Long-term goal:** Build reliable, maintainable, and scalable software
-
-<br clear="right"/>
-
----
-
-<!-- ==================== TECH STACK ==================== -->
-
-## `02` &nbsp; Technical Arsenal
-
 <div align="center">
 
-### Languages
+### SOFTWARE ENGINEERING · APPLICATIONS · AI
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS" />
-
-### Frontend & Application Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React and Next.js" />
-
-### AI & LLM Engineering
-
-<img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="OpenAI" />
-
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
-
-### Developer Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" alt="Git, GitHub, Visual Studio Code and Node.js" />
+**I turn technical problems into practical solutions.**
 
 </div>
 
-### Engineering Fundamentals
-
-| Area | Focus |
-|:---|:---|
-| Programming | Python, JavaScript, programming fundamentals |
-| DSA | Arrays, lists, algorithms, problem-solving |
-| Web | HTML, CSS, JavaScript, Next.js |
-| APIs | REST APIs, HTTP, JSON, integrations |
-| AI | LLM APIs, prompt handling, local models |
-| Software quality | Debugging, testing, maintainability |
-| Application engineering | DOM, CSS selectors, XPath, workflow troubleshooting |
-
-*Technologies represent tools I've used or explored, alongside areas I'm actively developing.*
-
 ---
 
-<!-- ==================== PROFESSIONAL SKILLS ==================== -->
-
-## `03` &nbsp; Beyond the Code
+<h2 align="center">01 &nbsp; THE ENGINEERING PROFILE</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### ◈ Problem Solving
+### Building beyond the interface.
 
-Breaking down complex problems, investigating unexpected behavior, and working toward practical solutions.
+I'm a Solution Engineer with hands-on experience in enterprise applications, application integrations, technical troubleshooting, analytics, and workflow automation.
 
-</td>
-<td width="50%" valign="top">
+I combine an understanding of real-world application problems with practical development experience across web technologies and AI-powered tools.
 
-### ◈ Solution Design
+My focus is on building software that is useful, understandable, and maintainable.
 
-Understanding requirements and translating business problems into workable technical approaches.
+**What defines my approach**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Technical Communication
-
-Explaining technical concepts, demonstrating application workflows, and communicating solutions clearly.
+- Translate requirements into practical technical solutions.
+- Investigate application behavior and troubleshoot complex issues.
+- Develop web applications and integrate APIs.
+- Work with AI services to build intelligent developer experiences.
+- Consider usability, reliability, and the end user—not just the code.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="middle" align="center">
 
-### ◈ Collaboration
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs&perline=3&theme=dark" alt="Core development technologies" />
 
-Working across teams, incorporating feedback, and approaching problems with a product-oriented mindset.
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROBLEM_SOLVING-YES-161B22?style=flat-square&labelColor=161B22&color=6366F1" alt="Problem solving" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/API_INTEGRATION-YES-161B22?style=flat-square&labelColor=161B22&color=2563EB" alt="API integration" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_APPLICATIONS-YES-161B22?style=flat-square&labelColor=161B22&color=7C3AED" alt="AI applications" />
 
 </td>
 </tr>
@@ -131,121 +91,234 @@ Working across teams, incorporating feedback, and approaching problems with a pr
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-
-## `04` &nbsp; Selected Projects
+<h2 align="center">02 &nbsp; TECHNOLOGY STACK</h2>
 
 <div align="center">
 
-<a href="https://github.com/naavy-jain/Para-Generator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=Para-Generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Paragraph Generator project" />
+<p><strong>LANGUAGES & WEB</strong></p>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs&theme=dark" alt="Python, JavaScript, HTML, CSS, React and Next.js" />
+
+<br/><br/>
+
+<p><strong>BACKEND & INTEGRATIONS</strong></p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode&theme=dark" alt="Node.js, Express, Git, GitHub and VS Code" />
+
+<br/><br/>
+
+<p><strong>AI & LLM TOOLS</strong></p>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
+
+<br/><br/>
+
+<p><strong>APPLICATION ENGINEERING</strong></p>
+
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JSON-111827?style=flat-square" alt="JSON" />
+<img src="https://img.shields.io/badge/DOM_Inspection-334155?style=flat-square" alt="DOM inspection" />
+<img src="https://img.shields.io/badge/CSS_Selectors-1D4ED8?style=flat-square" alt="CSS selectors" />
+<img src="https://img.shields.io/badge/XPath-4338CA?style=flat-square" alt="XPath" />
+<img src="https://img.shields.io/badge/Workflow_Automation-6D28D9?style=flat-square" alt="Workflow automation" />
+
+</div>
+
+---
+
+<h2 align="center">03 &nbsp; WHAT I BRING TO THE TABLE</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Application Development
+
+Building web interfaces and applications using JavaScript, React, Next.js, HTML, and CSS.
+
+### ◈ API Integration
+
+Working with REST endpoints, JSON payloads, application data, and API-driven functionality.
+
+### ◈ AI-Powered Tools
+
+Developing AI application workflows using LLM APIs, prompt handling, local models, and developer tooling.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Technical Troubleshooting
+
+Investigating application behavior, debugging issues, inspecting the DOM, and identifying potential causes.
+
+### ◈ Enterprise Applications
+
+Working with business applications, workflow configuration, analytics, integrations, and technical enablement.
+
+### ◈ Solution Design & Communication
+
+Understanding requirements, explaining technical concepts, and connecting technical implementation with business needs.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2563EB,50:6366F1,100:8B5CF6" width="100%" alt="" />
+
+</div>
+
+---
+
+<h2 align="center">04 &nbsp; SELECTED PROJECTS</h2>
+
+<div align="center">
+
+<a href="https://github.com/naavy-jain/url-shortner">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=url-shortner&theme=transparent&hide_border=true&title_color=79C0FF&icon_color=8B5CF6&text_color=C9D1D9" alt="URL Shortener project" />
 </a>
-<a href="https://github.com/naavy-jain/Tip-Calculator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=Tip-Calculator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Tip Calculator project" />
+
+<a href="https://github.com/naavy-jain/Dynamic-File-Management-System">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=Dynamic-File-Management-System&theme=transparent&hide_border=true&title_color=79C0FF&icon_color=8B5CF6&text_color=C9D1D9" alt="Dynamic File Management System project" />
 </a>
-<a href="https://github.com/naavy-jain/To-Do-List">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=To-Do-List&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="To-Do List project" />
-</a>
+
 <a href="https://github.com/naavy-jain/my-portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=my-portfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Personal portfolio project" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=my-portfolio&theme=transparent&hide_border=true&title_color=79C0FF&icon_color=8B5CF6&text_color=C9D1D9" alt="Portfolio project" />
+</a>
+
+<a href="https://github.com/naavy-jain/To-Do-List">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=To-Do-List&theme=transparent&hide_border=true&title_color=79C0FF&icon_color=8B5CF6&text_color=C9D1D9" alt="To-Do List project" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/naavy-jain?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore all projects" />
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=79C0FF" alt="View all repositories" />
 </a>
 
 </div>
 
 ---
 
-<!-- ==================== ENGINEERING JOURNEY ==================== -->
+<h2 align="center">05 &nbsp; GITHUB ACTIVITY</h2>
 
-## `05` &nbsp; What I'm Working Toward
+<div align="center">
+
+<p><sub>A live view of my contribution history and development activity.</sub></p>
+
+<a href="https://github.com/naavy-jain">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naavy-jain&bg_color=0D1117&color=79C0FF&line=6366F1&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY&days=30" alt="Dynamic GitHub contribution activity graph for the last 30 days" />
+</a>
+
+<br/><br/>
+
+### Contribution Heatmap
+
+<a href="https://github.com/naavy-jain">
+<img width="100%" src="https://ghchart.rshah.org/6366F1/naavy-jain" alt="GitHub contribution heatmap for Navya Jain" />
+</a>
+
+<br/>
+
+<a href="https://github.com/naavy-jain?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/EXPLORE_MY_ACTIVITY-161B22?style=for-the-badge&logo=github&logoColor=79C0FF" alt="Explore GitHub activity" />
+</a>
+
+</div>
+
+---
+
+<h2 align="center">06 &nbsp; PROFESSIONAL STRENGTHS</h2>
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-**01 · Foundations**
+**01**
 
-- Python and programming
-- Data Structures & Algorithms
-- Problem-solving practice
+<br/>
 
-</td>
-<td width="33%" valign="top">
-
-**02 · Building**
-
-- Full-stack applications
-- Backend and APIs
-- Testing and debugging
+Problem Solving
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%">
 
-**03 · Engineering**
+**02**
 
-- System design
-- Scalable architecture
-- AI-powered applications
+<br/>
+
+Analytical Thinking
+
+</td>
+<td align="center" width="33%">
+
+**03**
+
+<br/>
+
+Technical Communication
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**04**
+
+<br/>
+
+Troubleshooting
+
+</td>
+<td align="center" width="33%">
+
+**05**
+
+<br/>
+
+Solution Design
+
+</td>
+<td align="center" width="33%">
+
+**06**
+
+<br/>
+
+Cross-Functional Collaboration
 
 </td>
 </tr>
 </table>
 
-> My philosophy: understand the fundamentals, build practical solutions, and improve through consistent iteration.
-
----
-
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-## `06` &nbsp; GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/naavy-jain">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naavy-jain&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/naavy-jain">
-  <img width="49%" src="https://streak-stats.demolab.com?user=naavy-jain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/naavy-jain">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=naavy-jain&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</a>
-
 </div>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,100:8B5CF6" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:080B16,45:172554,100:6366F1" alt="" />
 
-<br/>
+<h2>Let's build something meaningful.</h2>
 
-### Let's build something meaningful.
-
-Open to learning, collaborating, and connecting with people who enjoy solving interesting engineering problems.
-
-<br/>
+<p>
+I enjoy solving problems, exploring new ideas, and creating software that makes a difference.
+</p>
 
 <a href="https://github.com/naavy-jain">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-161B22?style=for-the-badge&logo=github" alt="Explore my code" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code" />
 </a>
 <a href="https://www.linkedin.com/in/navyajain9">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0969DA?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+<img src="https://img.shields.io/badge/CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br/><br/>
 
-<sub>Designed with intent. Built through iteration. Always learning.</sub>
+<sub>Designed with purpose. Built with curiosity. Driven by engineering.</sub>
 
 </div>
