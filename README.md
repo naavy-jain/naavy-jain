@@ -1,230 +1,251 @@
-<!--
-  NAVYA JAIN | GITHUB PROFILE README
-  Repository: https://github.com/naavy-jain/naavy-jain
-
-  Reliability notes:
-  - Uses standard GitHub Markdown and supported HTML.
-  - Dynamic typing and statistics use third-party services.
-  - If a third-party image is unavailable, the surrounding content remains readable.
--->
+<!-- ==================== HERO ==================== -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Hi%2C+I'm+Navya+Jain+%F0%9F%91%8B;Software+Engineering+Enthusiast;Building+Projects%2C+Learning+Every+Day;Exploring+AI+%26+Full-Stack+Development" alt="Animated introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0D1117,35:161B35,70:243B70,100:58A6FF&text=NAVYA%20JAIN&fontColor=FFFFFF&fontSize=58&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%7C%20FULL-STACK%20%7C%20AI&descSize=14&descAlignY=62&animation=fadeIn" alt="Navya Jain — Software Engineering, Full-Stack Development and AI" />
 
-  <h3>Software Engineering · Full-Stack Development · AI Engineering</h3>
+<a href="https://github.com/naavy-jain">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Turning+ideas+into+working+software.;Learning.+Building.+Iterating.;Exploring+AI%2C+APIs+%26+software+architecture.;Focused+on+becoming+a+stronger+engineer." alt="Animated engineering tagline" />
+</a>
 
-  <p>
-    <a href="https://github.com/naavy-jain">
-      <img src="https://img.shields.io/badge/GitHub-naavy--jain-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-    </a>
-    <a href="https://www.linkedin.com/in/naavy-jain106/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-    </a>
-    <a href="https://naavy-portfolio-17.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Explore-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-    </a>
-  </p>
+<br/>
 
-  <p>
-    <i>Curious mind. Engineering mindset. Consistent progress.</i>
-  </p>
+<a href="https://github.com/naavy-jain">
+  <img src="https://img.shields.io/badge/PROFILE-GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/navyajain9">
+  <img src="https://img.shields.io/badge/CONNECT-LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=naavy-jain&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
+<br/>
+
+<!-- ==================== INTRODUCTION ==================== -->
+
+## `01` &nbsp; About Me
+
+<img align="right" width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naavy-jain&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages" />
+
+I'm a **Solution Engineer building toward Software Development Engineering**, with an interest in full-stack applications, backend systems, and AI-powered tools.
+
+My experience with enterprise applications, integrations, analytics, and technical problem-solving gives me a practical perspective on how software solves real-world problems.
+
+I'm now building deeper engineering skills through programming, DSA, and hands-on projects.
+
+- **Engineering:** Software development and problem-solving
+- **Currently learning:** DSA with Python and software engineering fundamentals
+- **Building:** Web applications and AI-powered developer tools
+- **Exploring:** LLM APIs, local models, and backend development
+- **Long-term goal:** Build reliable, maintainable, and scalable software
+
+<br clear="right"/>
+
 ---
 
-## `$ whoami`
+<!-- ==================== TECH STACK ==================== -->
 
-I'm Navya Jain, a Solution Engineer with a growing focus on software engineering, full-stack development, and AI-powered applications.
+## `02` &nbsp; Technical Arsenal
 
-My work has given me exposure to technical problem-solving, application workflows, integrations, analytics, and customer-facing technical solutions. I'm building on that experience by strengthening my programming fundamentals and developing projects that help me understand how software works beyond the interface.
+<div align="center">
 
-- **Currently focusing on:** Data Structures & Algorithms, Python, and software engineering fundamentals.
-- **Building toward:** Full-stack development, backend engineering, and scalable applications.
-- **Exploring:** LLM APIs, AI-powered developer tools, and local AI models.
-- **My approach:** Learn the fundamentals, build something practical, test it, and improve it.
-- **Long-term goal:** Become a well-rounded Software Development Engineer.
+### Languages
 
-> I believe strong engineers don't just write code — they understand the problem, design the solution, and care about how it works in the real world.
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Python, JavaScript, HTML and CSS" />
 
----
+### Frontend & Application Development
 
-## `$ tech-stack`
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React and Next.js" />
 
-### Programming Languages
+### AI & LLM Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+<img src="https://skillicons.dev/icons?i=openai&theme=dark" alt="OpenAI" />
 
-### Frontend Development
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Responsive_UI-1572B6?style=flat-square&logo=css3&logoColor=white" alt="Responsive UI development" />
-</p>
+### Developer Tools
 
-### Backend & APIs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" alt="Git, GitHub, Visual Studio Code and Node.js" />
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-</p>
-
-### AI & Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-</p>
+</div>
 
 ### Engineering Fundamentals
 
-- Data Structures & Algorithms using Python
-- Problem-solving and algorithmic thinking
-- HTTP, APIs, JSON, and application integrations
-- DOM inspection, CSS selectors, and XPath
-- Debugging, testing, and iterative development
-- Understanding application architecture and system design
+| Area | Focus |
+|:---|:---|
+| Programming | Python, JavaScript, programming fundamentals |
+| DSA | Arrays, lists, algorithms, problem-solving |
+| Web | HTML, CSS, JavaScript, Next.js |
+| APIs | REST APIs, HTTP, JSON, integrations |
+| AI | LLM APIs, prompt handling, local models |
+| Software quality | Debugging, testing, maintainability |
+| Application engineering | DOM, CSS selectors, XPath, workflow troubleshooting |
+
+*Technologies represent tools I've used or explored, alongside areas I'm actively developing.*
 
 ---
 
-## `$ beyond-code`
+<!-- ==================== PROFESSIONAL SKILLS ==================== -->
 
-Technical ability is only one part of building good software. My experience also involves understanding business problems and communicating technical solutions.
-
-| Professional Skill | How I Apply It |
-|---|---|
-| Problem-solving | Breaking complex problems into manageable steps |
-| Solution design | Connecting user needs with practical technical solutions |
-| Technical communication | Explaining technical concepts clearly |
-| Troubleshooting | Investigating application behavior and identifying issues |
-| Collaboration | Working with teams and incorporating feedback |
-| Product thinking | Considering usability, workflows, and the end-user experience |
-
----
-
-## `$ featured-projects`
-
-A selection of projects from my GitHub profile.
+## `03` &nbsp; Beyond the Code
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/naavy-jain/Para-Generator">Para-Generator</a>
-      </h3>
-      <p>A web application that generates paragraphs based on a requested word count.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-      <a href="https://github.com/naavy-jain/Para-Generator">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/naavy-jain/Tip-Calculator">Tip-Calculator</a>
-      </h3>
-      <p>A simple utility project focused on calculating tips and presenting results through a web interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web_Development-1572B6?style=flat-square&logo=googlechrome&logoColor=white" alt="Web development" />
-      </p>
-      <a href="https://github.com/naavy-jain/Tip-Calculator">View repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/naavy-jain/To-Do-List">To-Do-List</a>
-      </h3>
-      <p>A task-management project centered on organizing everyday activities through a web interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Frontend-1572B6?style=flat-square&logo=html5&logoColor=white" alt="Frontend development" />
-      </p>
-      <a href="https://github.com/naavy-jain/To-Do-List">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/naavy-jain/my-portfolio">Personal Portfolio</a>
-      </h3>
-      <p>A personal website showcasing my work, development journey, and professional profile.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Web_Development-1572B6?style=flat-square&logo=googlechrome&logoColor=white" alt="Web development" />
-      </p>
-      <a href="https://github.com/naavy-jain/my-portfolio">View repository →</a>
-    </td>
-  </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-> I'm continuing to build more substantial projects as I develop my skills in backend engineering, DSA, and AI application development.
+### ◈ Problem Solving
+
+Breaking down complex problems, investigating unexpected behavior, and working toward practical solutions.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Solution Design
+
+Understanding requirements and translating business problems into workable technical approaches.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Technical Communication
+
+Explaining technical concepts, demonstrating application workflows, and communicating solutions clearly.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Collaboration
+
+Working across teams, incorporating feedback, and approaching problems with a product-oriented mindset.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ github-analytics`
+<!-- ==================== PROJECTS ==================== -->
+
+## `04` &nbsp; Selected Projects
 
 <div align="center">
 
-  <a href="https://github.com/naavy-jain">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=naavy-jain&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics for Navya Jain" />
-  </a>
-  <a href="https://github.com/naavy-jain">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naavy-jain&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most-used programming languages" />
-  </a>
+<a href="https://github.com/naavy-jain/Para-Generator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=Para-Generator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Paragraph Generator project" />
+</a>
+<a href="https://github.com/naavy-jain/Tip-Calculator">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=Tip-Calculator&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Tip Calculator project" />
+</a>
+<a href="https://github.com/naavy-jain/To-Do-List">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=To-Do-List&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="To-Do List project" />
+</a>
+<a href="https://github.com/naavy-jain/my-portfolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=naavy-jain&repo=my-portfolio&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Personal portfolio project" />
+</a>
 
-  <br />
+<br/><br/>
 
-  <a href="https://github.com/naavy-jain">
-    <img src="https://streak-stats.demolab.com?user=naavy-jain&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-  </a>
+<a href="https://github.com/naavy-jain?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore all projects" />
+</a>
 
 </div>
 
 ---
 
-## `$ current-roadmap`
+<!-- ==================== ENGINEERING JOURNEY ==================== -->
 
-```text
-[01] Programming fundamentals      -> Strengthening Python
-[02] Data Structures & Algorithms -> Consistent problem-solving
-[03] Full-Stack Development       -> Building practical applications
-[04] Backend Engineering          -> APIs, architecture & databases
-[05] AI Engineering               -> LLM-powered applications
-[06] Software Design              -> Scalability, reliability & testing
-```
+## `05` &nbsp; What I'm Working Toward
 
-I'm focused on building a strong foundation rather than rushing through technologies. Each project is an opportunity to understand the engineering decisions behind the code.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 · Foundations**
+
+- Python and programming
+- Data Structures & Algorithms
+- Problem-solving practice
+
+</td>
+<td width="33%" valign="top">
+
+**02 · Building**
+
+- Full-stack applications
+- Backend and APIs
+- Testing and debugging
+
+</td>
+<td width="33%" valign="top">
+
+**03 · Engineering**
+
+- System design
+- Scalable architecture
+- AI-powered applications
+
+</td>
+</tr>
+</table>
+
+> My philosophy: understand the fundamentals, build practical solutions, and improve through consistent iteration.
 
 ---
 
-## `$ let's-connect`
+<!-- ==================== GITHUB ACTIVITY ==================== -->
 
-I'm interested in connecting with developers, learning from the engineering community, collaborating on useful projects, and sharing what I learn along the way.
+## `06` &nbsp; GitHub Activity
 
 <div align="center">
 
-  <a href="https://github.com/naavy-jain">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/naavy-jain106/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="https://naavy-portfolio-17.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" />
-  </a>
+<a href="https://github.com/naavy-jain">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naavy-jain&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub profile statistics" />
+</a>
+<a href="https://github.com/naavy-jain">
+  <img width="49%" src="https://streak-stats.demolab.com?user=naavy-jain&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
+</a>
 
-  <br /><br />
+<br/><br/>
 
-  <i>Thanks for stopping by. Keep building, keep learning. 🚀</i>
+<a href="https://github.com/naavy-jain">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=naavy-jain&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+</a>
+
+</div>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,100:8B5CF6" alt="" />
+
+<br/>
+
+### Let's build something meaningful.
+
+Open to learning, collaborating, and connecting with people who enjoy solving interesting engineering problems.
+
+<br/>
+
+<a href="https://github.com/naavy-jain">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-161B22?style=for-the-badge&logo=github" alt="Explore my code" />
+</a>
+<a href="https://www.linkedin.com/in/navyajain9">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0969DA?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Designed with intent. Built through iteration. Always learning.</sub>
 
 </div>
